@@ -1,4 +1,4 @@
-# Advanced Table Calculator-
+# Microsoft Excel Application
 
 Description: A microsoft excel like application where users could enter data into a spreadsheet and perform calculations on the data.Users could save their data directly in the application or save their data inside of a downloadable text file. 
 
