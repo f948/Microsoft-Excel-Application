@@ -4,8 +4,10 @@ Description: A microsoft excel like application where users could enter data int
 
 # Required 
 A web browser that can run the html file
+Nodepad or Nodepad ++ installed 
 
 # To make the code work
+Copy and paste the code from this repository into Nodepad and save the files with the same names as listed above
 Run the html file using your web browser
 
 # LICENSE:
