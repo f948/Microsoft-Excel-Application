@@ -2,6 +2,8 @@
 
 Description: A microsoft excel like application where users could enter data into a spreadsheet and perform calculations on the data.Users could save their data directly in the application or save their data inside of a downloadable text file. 
 
+Video demonstration avaliable at https://www.youtube.com/watch?v=xJcjLixPHXk
+
 # Required 
 A web browser that can run the html file
 Nodepad or Nodepad ++ installed 
